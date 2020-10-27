@@ -7,3 +7,5 @@ For reference:
 * Data was pulled from The New York Times and the state of California, and processed with Python.   
 * Trends were predicted using scikit-learn. 
 * Interactive graphs were produced using Altair. 
+
+Developed by Eugene Kim and Andrew Wong
